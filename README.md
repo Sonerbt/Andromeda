@@ -52,7 +52,7 @@
 <div align="center">
   <p>Watch Andromeda's realistic route simulation in action:</p>
 
-  ![Route Simulation](Media/route_simulation.mov)
+  <video src="https://github.com/Sonerbt/Andromeda/raw/main/Media/route_simulation.mov" width="400" controls></video>
 </div>
 
 ---
