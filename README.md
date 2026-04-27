@@ -5,10 +5,10 @@
 # Andromeda
 ### The Ultimate iOS Utility — by son3ra1n
 
-[![iOS](https://img.shields.io/badge/iOS-15.0%2B-indigo.svg?style=for-the-badge&logo=apple)](https://github.com/son3ra1n/Andromeda)
+[![iOS](https://img.shields.io/badge/iOS-15.0%2B-indigo.svg?style=for-the-badge&logo=apple)](https://github.com/Sonerbt/Andromeda)
 [![TrollStore](https://img.shields.io/badge/Requires-TrollStore-purple.svg?style=for-the-badge)](https://github.com/opa334/TrollStore)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=for-the-badge)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-2.5.0-green.svg?style=for-the-badge)](https://github.com/son3ra1n/Andromeda/releases)
+[![Version](https://img.shields.io/badge/Version-2.5.0-green.svg?style=for-the-badge)](https://github.com/Sonerbt/Andromeda/releases)
 
 **Andromeda** is a powerful, modern iOS utility app featuring location simulation, system cleaning, daemon management, and much more — all wrapped in a stunning glassmorphism UI.
 
@@ -74,7 +74,7 @@
 
 ### Steps
 
-1. Download the latest `Andromeda.tipa` from the [**Releases**](https://github.com/son3ra1n/Andromeda/releases) page.
+1. Download the latest `Andromeda.tipa` from the [**Releases**](https://github.com/Sonerbt/Andromeda/releases) page.
 2. Open **TrollStore** on your iPhone.
 3. Tap **+** and select the downloaded `Andromeda.tipa` file.
 4. Tap **Install**.
@@ -86,7 +86,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/son3ra1n/Andromeda.git
+git clone https://github.com/Sonerbt/Andromeda.git
 cd Andromeda
 
 # Open in Xcode
