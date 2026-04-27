@@ -51,7 +51,8 @@
 
 <div align="center">
   <p>Watch Andromeda's realistic route simulation in action:</p>
-  <video src="Media/route_simulation.mov" width="300" controls></video>
+
+  ![Route Simulation](Media/route_simulation.mov)
 </div>
 
 ---
