@@ -47,6 +47,15 @@
 
 ---
 
+## 🎥 Demo Video
+
+<div align="center">
+  <p>Watch Andromeda's realistic route simulation in action:</p>
+  <video src="Media/route_simulation.mov" width="300" controls></video>
+</div>
+
+---
+
 ## 📱 Screenshots
 
 <div align="center">
