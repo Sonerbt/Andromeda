@@ -57,9 +57,9 @@
   <h3>✨ New v2.5.2 Features</h3>
   <table style="border: none;">
     <tr>
-      <td align="center"><b>Home</b><br/><img src="Assets/Screenshots/home.png" width="220" /></td>
-      <td align="center"><b>LocSim Pro (Joystick)</b><br/><img src="Assets/Screenshots/locsim.png" width="220" /></td>
-      <td align="center"><b>Storage Analyzer</b><br/><img src="Assets/Screenshots/storage.png" width="220" /></td>
+      <td align="center"><b>Storage Analyzer</b><br/><img src="Assets/Screenshots/storage_analyzer.png" width="220" /></td>
+      <td align="center"><b>Cleaner (Result)</b><br/><img src="Assets/Screenshots/cleaner_success.png" width="220" /></td>
+      <td align="center"><b>LocSim Pro</b><br/><img src="Assets/Screenshots/locsim_pro.png" width="220" /></td>
     </tr>
   </table>
 
@@ -67,9 +67,9 @@
   <table style="border: none;">
     <tr>
       <td align="center"><b>Search</b><br/><img src="Media/locsim_search.png" width="180" /></td>
-      <td align="center"><b>Cleaner</b><br/><img src="Media/cleaner_view.png" width="180" /></td>
-      <td align="center"><b>Settings</b><br/><img src="Media/settings_view.png" width="180" /></td>
-      <td align="center"><b>Sim Context</b><br/><img src="Media/locsim_main.png" width="180" /></td>
+      <td align="center"><b>Route Selection</b><br/><img src="Media/cleaner_view.png" width="180" /></td>
+      <td align="center"><b>Route Details</b><br/><img src="Media/settings_view.png" width="180" /></td>
+      <td align="center"><b>Map View</b><br/><img src="Media/locsim_main.png" width="180" /></td>
     </tr>
   </table>
 </div>
