@@ -39,14 +39,37 @@
 
 ---
 
+## 🎥 Demo Video
+
+<div align="center">
+  <p>Click the image below to watch Andromeda's realistic route simulation in action:</p>
+
+  [![Watch the video](Media/locsim_main.png)](https://github.com/Sonerbt/Andromeda/raw/main/Media/route_simulation.mov)
+
+  *(Clicking will open the video in a new tab)*
+</div>
+
+---
+
 ## 📱 Screenshots
 
 <div align="center">
+  <h3>✨ New v2.5.2 Features</h3>
   <table style="border: none;">
     <tr>
       <td align="center"><b>Home</b><br/><img src="Assets/Screenshots/home.png" width="220" /></td>
-      <td align="center"><b>LocSim Pro</b><br/><img src="Assets/Screenshots/locsim.png" width="220" /></td>
+      <td align="center"><b>LocSim Pro (Joystick)</b><br/><img src="Assets/Screenshots/locsim.png" width="220" /></td>
       <td align="center"><b>Storage Analyzer</b><br/><img src="Assets/Screenshots/storage.png" width="220" /></td>
+    </tr>
+  </table>
+
+  <h3>📱 App Interface</h3>
+  <table style="border: none;">
+    <tr>
+      <td align="center"><b>Search</b><br/><img src="Media/locsim_search.png" width="180" /></td>
+      <td align="center"><b>Cleaner</b><br/><img src="Media/cleaner_view.png" width="180" /></td>
+      <td align="center"><b>Settings</b><br/><img src="Media/settings_view.png" width="180" /></td>
+      <td align="center"><b>Sim Context</b><br/><img src="Media/locsim_main.png" width="180" /></td>
     </tr>
   </table>
 </div>
@@ -82,20 +105,6 @@ open Geranium.xcodeproj
 # Build for your device (requires macOS + Xcode 15+)
 # Set scheme to "Geranium" and target to a generic iOS device
 ```
-
-> **Note:** The app requires proper entitlements to function. Use [TrollStore](https://github.com/opa334/TrollStore) or a jailbroken device for full functionality.
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ---
 
